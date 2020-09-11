@@ -1,1 +1,5 @@
-<? print(hello) ?>
+<head>
+<body>
+<h1> hello </h1>
+</head>
+</body>
